@@ -332,7 +332,7 @@ let g:snippets_dir = $HOME . "/.vim/snippets/"
 
 " ZenCoding
 " See http://code.google.com/p/zen-coding/
-" This implementation: http://www.vim.com/scripts/script.php?script_id=2981
+" This implementation: http://www.vim.org/scripts/script.php?script_id=2981
 let g:user_zen_settings = {
 \  'php':{
 \    'aliases':{
